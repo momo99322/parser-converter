@@ -1,4 +1,4 @@
-package ru.korobtsov.unlimittestcase;
+package ru.korobtsov.unlimittestcase.producerAndConsumer;
 
 import org.junit.Assert;
 import org.junit.Before;
