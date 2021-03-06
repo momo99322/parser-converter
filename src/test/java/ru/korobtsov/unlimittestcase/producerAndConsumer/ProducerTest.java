@@ -3,9 +3,7 @@ package ru.korobtsov.unlimittestcase.producerAndConsumer;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
-import ru.korobtsov.unlimittestcase.entity.Message;
 import ru.korobtsov.unlimittestcase.entity.Order;
-import ru.korobtsov.unlimittestcase.producerAndConsumer.Producer;
 
 import java.math.BigDecimal;
 import java.util.concurrent.BlockingQueue;

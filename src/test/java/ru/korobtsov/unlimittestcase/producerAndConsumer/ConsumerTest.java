@@ -1,9 +1,7 @@
 package ru.korobtsov.unlimittestcase.producerAndConsumer;
 
 import org.junit.Test;
-import ru.korobtsov.unlimittestcase.entity.Message;
 import ru.korobtsov.unlimittestcase.entity.Order;
-import ru.korobtsov.unlimittestcase.producerAndConsumer.Consumer;
 import ru.korobtsov.unlimittestcase.util.ConverterImpl;
 
 import java.math.BigDecimal;

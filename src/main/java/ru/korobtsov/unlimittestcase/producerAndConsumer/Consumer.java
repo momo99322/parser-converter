@@ -1,7 +1,6 @@
 package ru.korobtsov.unlimittestcase.producerAndConsumer;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import ru.korobtsov.unlimittestcase.entity.Message;
 import ru.korobtsov.unlimittestcase.util.ConverterImpl;
 
 import java.util.concurrent.BlockingQueue;

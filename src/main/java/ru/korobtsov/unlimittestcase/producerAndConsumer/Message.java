@@ -1,4 +1,6 @@
-package ru.korobtsov.unlimittestcase.entity;
+package ru.korobtsov.unlimittestcase.producerAndConsumer;
+
+import ru.korobtsov.unlimittestcase.entity.Order;
 
 import java.util.Objects;
 

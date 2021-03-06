@@ -2,7 +2,7 @@ package ru.korobtsov.unlimittestcase.util;
 
 import org.junit.Assert;
 import org.junit.Test;
-import ru.korobtsov.unlimittestcase.entity.Message;
+import ru.korobtsov.unlimittestcase.producerAndConsumer.Message;
 import ru.korobtsov.unlimittestcase.entity.Order;
 
 import java.math.BigDecimal;

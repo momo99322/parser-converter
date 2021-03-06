@@ -2,7 +2,6 @@ package ru.korobtsov.unlimittestcase.producerAndConsumer;
 
 import com.opencsv.exceptions.CsvException;
 import org.json.simple.parser.ParseException;
-import ru.korobtsov.unlimittestcase.entity.Message;
 import ru.korobtsov.unlimittestcase.entity.Order;
 import ru.korobtsov.unlimittestcase.util.CSVParser;
 import ru.korobtsov.unlimittestcase.util.JSONParser;

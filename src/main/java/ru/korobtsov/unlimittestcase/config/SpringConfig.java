@@ -3,7 +3,7 @@ package ru.korobtsov.unlimittestcase.config;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import ru.korobtsov.unlimittestcase.producerAndConsumer.Consumer;
-import ru.korobtsov.unlimittestcase.entity.Message;
+import ru.korobtsov.unlimittestcase.producerAndConsumer.Message;
 import ru.korobtsov.unlimittestcase.producerAndConsumer.Producer;
 import ru.korobtsov.unlimittestcase.UnlimitTestCaseApplication;
 import ru.korobtsov.unlimittestcase.util.ConverterImpl;
